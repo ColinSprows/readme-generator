@@ -46,7 +46,8 @@ To run tests, see instructions section of this README
 
 ## Questions
 
-ColinSprows
-colin.sprows@gmail.com
+GitHub: ColinSprows
+Email: colin.sprows@gmail.com
+
 Please email me if you need any additional instructions!
     

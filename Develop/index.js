@@ -127,8 +127,9 @@ ${answers.test}
 
 ## Questions
 
-${answers.github}
-${answers.email}
+GitHub: ${answers.github}
+Email: ${answers.email}
+
 ${answers.contact}
     `
     return markdown;
