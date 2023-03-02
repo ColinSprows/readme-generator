@@ -19,7 +19,7 @@ This is a README generator to make it easier for me to create project READMEs in
 
 ## Installation
 
-to get the environment running, simply open a dedicated terminal in the develop folder of this project and run the command 'node index'    
+To get the environment running, simply open a dedicated terminal in the develop folder of this project and run the command 'node index'    
 
 ## Usage
 
@@ -42,11 +42,11 @@ If you would like to contribute, please contact me at the e-mail listed below
 
 ## Tests
 
-to run tests, see instructions section of this README
+To run tests, see instructions section of this README
 
 ## Questions
 
 ColinSprows
 colin.sprows@gmail.com
-please email me if you need any additional instructions!
+Please email me if you need any additional instructions!
     
